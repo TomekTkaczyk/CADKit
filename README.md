@@ -1,5 +1,5 @@
 ## CADKit
-Nakładka napisana w C# jako wspólna platforma do ładowania aplikacji niezależnych dostawców
+Nakładka napisana w C# jako wspólna platforma do ładowania aplikacji niezależnych dostawców.
 Tworzona jako ćwiczenie z programowania na platformie AutoCAD/ZwCAD
 
 ### UŻYTE TECHNOLOGIE
@@ -8,5 +8,5 @@ Tworzona jako ćwiczenie z programowania na platformie AutoCAD/ZwCAD
 * WindowsForms
 
 ### FUNKCJONALNOŚĆ
-* Wdrożony wzorzec MVP (Model View Prresenter) w aplikacji WindowsForms
+* Wdrożony wzorzec MVP (Model View Presenter) w aplikacji WindowsForms
 * Klient API platformy ZwCAD
